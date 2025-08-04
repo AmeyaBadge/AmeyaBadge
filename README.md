@@ -1,3 +1,4 @@
+<img width="1000" height="300" alt="Header" src="https://github.com/user-attachments/assets/2aa3f5fa-e087-42bb-9056-366f9f140883" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ameya_badge_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameyabadge) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameyabadge@gmail.com) 
